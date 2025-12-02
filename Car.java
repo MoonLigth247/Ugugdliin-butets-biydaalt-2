@@ -1,5 +1,3 @@
-package biydaalt2;
-
 public class Car {
     private String chiglel;
     private String dugaar;
